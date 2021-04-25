@@ -73,4 +73,4 @@ client.on("message",msg =>{
 }
 });
 
-client.login('');//super secret
+client.login('');//super secret login code
